@@ -2,6 +2,6 @@ package models
 
 import "fmt"
 
-func Allusers(){
+func AllUsers(){
     fmt.Println("All users")
 }
